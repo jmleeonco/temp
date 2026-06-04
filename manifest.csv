@@ -1,0 +1,39 @@
+데이터셋,환자ID,OAR,파일명,이유
+CT-A,CT-A-0002,Bowel_Large,CT-A__CT-A-0002__Bowel_Large.png,"부피 이상치 (robust z=4.1, 2327.307cm³, 전체 중앙값 780cm³)"
+CT-A,CT-A-0018,Bowel_Large,CT-A__CT-A-0018__Bowel_Large.png,"부피 이상치 (robust z=3.8, 2218.043cm³, 전체 중앙값 780cm³)"
+CT-A,CT-A-0078,Sigmoid_Colon,CT-A__CT-A-0078__Sigmoid_Colon.png,"부피 이상치 (robust z=8.9, 823.168cm³, 전체 중앙값 114cm³) / 슬라이스 수 이상치 (robust z=5.3, 88장, 중앙값 25장) / Sigmoid 과대 (823.168cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+CT-A,CT-A-0112,Bag_Bowel,CT-A__CT-A-0112__Bag_Bowel.png,장기 중간 119장 비어있음 (최대 연속 113장≈339.0mm) → 라벨러가 중간 슬라이스 누락 의심
+CT-P-2,CT-P-075,Bag_Bowel,CT-P-2__CT-P-075__Bag_Bowel.png,"부피 이상치 (robust z=3.8, 8866.84cm³, 전체 중앙값 3493cm³)"
+CT-P-2,CT-P-075,Sigmoid_Colon,CT-P-2__CT-P-075__Sigmoid_Colon.png,"부피 이상치 (robust z=4.4, 465.661cm³, 전체 중앙값 114cm³) / Sigmoid 과대 (465.661cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+CT-P-2,CT-P-100,Bag_Bowel,CT-P-2__CT-P-100__Bag_Bowel.png,장기 중간 34장 비어있음 (최대 연속 34장≈102.0mm) → 라벨러가 중간 슬라이스 누락 의심
+CT-P-2,CT-P-104,Bag_Bowel,CT-P-2__CT-P-104__Bag_Bowel.png,장기 중간 41장 비어있음 (최대 연속 41장≈123.0mm) → 라벨러가 중간 슬라이스 누락 의심
+CT-P-2,CT-P-104,Bowel_Large,CT-P-2__CT-P-104__Bowel_Large.png,장기 중간 48장 비어있음 (최대 연속 48장≈144.0mm) → 라벨러가 중간 슬라이스 누락 의심
+original,ABDAP_P0006,Sigmoid_Colon,original__ABDAP_P0006__Sigmoid_Colon.png,"부피 이상치 (robust z=3.7, 410.667cm³, 전체 중앙값 114cm³) / Sigmoid 과대 (410.667cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,NCABD_P0002,Sigmoid_Colon,original__NCABD_P0002__Sigmoid_Colon.png,"부피 이상치 (robust z=4.5, 471.311cm³, 전체 중앙값 114cm³) / Sigmoid 과대 (471.311cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,NCABD_P0005,Sigmoid_Colon,original__NCABD_P0005__Sigmoid_Colon.png,"부피 이상치 (robust z=4.0, 432.195cm³, 전체 중앙값 114cm³) / Sigmoid 과대 (432.195cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,NCABD_P0009,Sigmoid_Colon,original__NCABD_P0009__Sigmoid_Colon.png,Sigmoid 과대 (363.513cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)
+original,NCABD_P0014,Bowel_Large,original__NCABD_P0014__Bowel_Large.png,장기 중간 32장 비어있음 (최대 연속 32장≈64.0mm) → 라벨러가 중간 슬라이스 누락 의심
+original,NCABD_P0019,Bowel_Large,original__NCABD_P0019__Bowel_Large.png,장기 중간 28장 비어있음 (최대 연속 28장≈84.0mm) → 라벨러가 중간 슬라이스 누락 의심
+original,NCABD_P0019,Sigmoid_Colon,original__NCABD_P0019__Sigmoid_Colon.png,장기 중간 103장 비어있음 (최대 연속 103장≈309.0mm) → 라벨러가 중간 슬라이스 누락 의심
+original,NCABD_P0024,Sigmoid_Colon,original__NCABD_P0024__Sigmoid_Colon.png,"부피 이상치 (robust z=5.6, 556.428cm³, 전체 중앙값 114cm³) / Sigmoid 과대 (556.428cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,NCABD_P0027,Sigmoid_Colon,original__NCABD_P0027__Sigmoid_Colon.png,"슬라이스 수 이상치 (robust z=5.5, 90장, 중앙값 25장)"
+original,NCABD_P0029,Sigmoid_Colon,original__NCABD_P0029__Sigmoid_Colon.png,"슬라이스 수 이상치 (robust z=3.7, 69장, 중앙값 25장)"
+original,NCABD_P0040,Bag_Bowel,original__NCABD_P0040__Bag_Bowel.png,"슬라이스 수 이상치 (robust z=4.3, 199장, 중앙값 97장)"
+original,NCABD_P0040,Bowel_Large,original__NCABD_P0040__Bowel_Large.png,"슬라이스 수 이상치 (robust z=3.7, 199장, 중앙값 94장)"
+original,NCABD_P0040,Sigmoid_Colon,original__NCABD_P0040__Sigmoid_Colon.png,Sigmoid 과대 (355.318cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)
+original,NCABD_P0051,Sigmoid_Colon,original__NCABD_P0051__Sigmoid_Colon.png,"부피 이상치 (robust z=5.2, 527.262cm³, 전체 중앙값 114cm³) / Sigmoid 과대 (527.262cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,NCABD_P0053,Sigmoid_Colon,original__NCABD_P0053__Sigmoid_Colon.png,"부피 이상치 (robust z=3.6, 401.065cm³, 전체 중앙값 114cm³) / Sigmoid 과대 (401.065cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,PELVIC_P0001,Sigmoid_Colon,original__PELVIC_P0001__Sigmoid_Colon.png,"슬라이스 수 이상치 (robust z=4.2, 75장, 중앙값 25장)"
+original,PELVIC_P0006,Sigmoid_Colon,original__PELVIC_P0006__Sigmoid_Colon.png,"슬라이스 수 이상치 (robust z=4.4, 77장, 중앙값 25장)"
+original,PELVIC_P0015,Bowel_Small,original__PELVIC_P0015__Bowel_Small.png,"슬라이스 수 이상치 (robust z=3.8, 162장, 중앙값 84장)"
+original,PELVIC_P0015,Sigmoid_Colon,original__PELVIC_P0015__Sigmoid_Colon.png,"슬라이스 수 이상치 (robust z=5.9, 95장, 중앙값 25장)"
+original,PELVIC_P0019,Sigmoid_Colon,original__PELVIC_P0019__Sigmoid_Colon.png,"부피 이상치 (robust z=10.1, 919.165cm³, 전체 중앙값 114cm³) / 슬라이스 수 이상치 (robust z=8.8, 129장, 중앙값 25장) / Sigmoid 과대 (919.165cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,PELVIC_P0020,Sigmoid_Colon,original__PELVIC_P0020__Sigmoid_Colon.png,"슬라이스 수 이상치 (robust z=4.6, 79장, 중앙값 25장)"
+original,PELVIC_P0024,Bowel_Small,original__PELVIC_P0024__Bowel_Small.png,"슬라이스 수 이상치 (robust z=3.8, 162장, 중앙값 84장)"
+original,PELVIC_P0039,Sigmoid_Colon,original__PELVIC_P0039__Sigmoid_Colon.png,"부피 이상치 (robust z=6.8, 652.422cm³, 전체 중앙값 114cm³) / 슬라이스 수 이상치 (robust z=7.5, 114장, 중앙값 25장) / Sigmoid 과대 (652.422cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,PELVIC_P0046,Sigmoid_Colon,original__PELVIC_P0046__Sigmoid_Colon.png,"슬라이스 수 이상치 (robust z=8.2, 122장, 중앙값 25장)"
+original,PELVIC_P0047,Sigmoid_Colon,original__PELVIC_P0047__Sigmoid_Colon.png,"부피 이상치 (robust z=4.2, 448.043cm³, 전체 중앙값 114cm³) / 슬라이스 수 이상치 (robust z=7.5, 114장, 중앙값 25장) / Sigmoid 과대 (448.043cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,PELVIC_P0055,Bowel_Small,original__PELVIC_P0055__Bowel_Small.png,"부피 이상치 (robust z=3.5, 2044.927cm³, 전체 중앙값 969cm³)"
+original,PELVIC_P0055,Sigmoid_Colon,original__PELVIC_P0055__Sigmoid_Colon.png,"부피 이상치 (robust z=4.2, 445.716cm³, 전체 중앙값 114cm³) / Sigmoid 과대 (445.716cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
+original,PELVIC_P0056,Sigmoid_Colon,original__PELVIC_P0056__Sigmoid_Colon.png,"슬라이스 수 이상치 (robust z=8.1, 121장, 중앙값 25장)"
+original,PELVIC_P0060,Sigmoid_Colon,original__PELVIC_P0060__Sigmoid_Colon.png,"부피 이상치 (robust z=3.7, 412.127cm³, 전체 중앙값 114cm³) / Sigmoid 과대 (412.127cm³ > 중앙값 114cm³의 3배 → 전체 colon 라벨 의심)"
